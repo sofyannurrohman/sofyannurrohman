@@ -21,6 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" />          
 </p>
 <h2> 🚀 &nbsp;My Github History</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofyannurrohman&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyannurrohman&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
