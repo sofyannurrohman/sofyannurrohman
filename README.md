@@ -16,4 +16,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-[![Sofyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofyannurrohman)](https://github.com/anuraghazra/github-readme-stats)
+[![Sofyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofyannurrohman&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
